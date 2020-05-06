@@ -13,5 +13,9 @@ namespace Collection
             nList[list.Length] = item;
             list = nList;
         }
+        public T GetElement(int index){
+            return list[index];
+        }
+        
     }
 }
