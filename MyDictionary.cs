@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 namespace Collection
 {
     public class MyDictionary<TKey, TValue>
@@ -32,5 +33,15 @@ namespace Collection
             }
             return dictionary[i];
         }
+        public IEnumerable<TValue> GetAll(int max){
+            for (int i = 0; i < max; i++){
+                if(i == dictionary.Length){
+                    yield break;
+                }
+                else{
+                    yield return dictionary[i];
+                }
+            }
+        } 
     }
 }
