@@ -1,0 +1,13 @@
+/home/sobira/Рабочий стол/c#/Collection/bin/Debug/netcoreapp3.1/Collection
+/home/sobira/Рабочий стол/c#/Collection/bin/Debug/netcoreapp3.1/Collection.deps.json
+/home/sobira/Рабочий стол/c#/Collection/bin/Debug/netcoreapp3.1/Collection.runtimeconfig.json
+/home/sobira/Рабочий стол/c#/Collection/bin/Debug/netcoreapp3.1/Collection.runtimeconfig.dev.json
+/home/sobira/Рабочий стол/c#/Collection/bin/Debug/netcoreapp3.1/Collection.dll
+/home/sobira/Рабочий стол/c#/Collection/bin/Debug/netcoreapp3.1/Collection.pdb
+/home/sobira/Рабочий стол/c#/Collection/obj/Debug/netcoreapp3.1/Collection.csprojAssemblyReference.cache
+/home/sobira/Рабочий стол/c#/Collection/obj/Debug/netcoreapp3.1/Collection.csproj.CoreCompileInputs.cache
+/home/sobira/Рабочий стол/c#/Collection/obj/Debug/netcoreapp3.1/Collection.AssemblyInfoInputs.cache
+/home/sobira/Рабочий стол/c#/Collection/obj/Debug/netcoreapp3.1/Collection.AssemblyInfo.cs
+/home/sobira/Рабочий стол/c#/Collection/obj/Debug/netcoreapp3.1/Collection.dll
+/home/sobira/Рабочий стол/c#/Collection/obj/Debug/netcoreapp3.1/Collection.pdb
+/home/sobira/Рабочий стол/c#/Collection/obj/Debug/netcoreapp3.1/Collection.genruntimeconfig.cache
