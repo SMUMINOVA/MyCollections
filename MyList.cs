@@ -3,10 +3,10 @@ namespace Collection
 {
     public class MyList<T>
     {
+        public T[] list;
         public MyList(){
             list = new T[0];
         }
-        public T[] list;
         public int Length{
             get{
                 return list.Length;

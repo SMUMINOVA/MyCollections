@@ -23,6 +23,8 @@ namespace Collection
             }
             newKey[key.Length] = k;
             newValue[dictionary.Length] = val;
+            key = newKey;
+            dictionary = newValue;
         }
         public TValue GetElement(TKey k){
             int i = 0;
