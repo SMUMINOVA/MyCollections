@@ -4,6 +4,11 @@ namespace Collection
     {
         public TKey[] key{get;set;}
         public TValue[] dictionary{get;set;}
+        public int Length{
+            get{
+                return key.Length;
+            }
+        }
         public MyDictionary(){
             key = new TKey[0];
             dictionary = new TValue[0];
@@ -17,6 +22,15 @@ namespace Collection
             }
             newKey[key.Length] = k;
             newValue[dictionary.Length] = val;
+        }
+        public TValue GetElement(TKey k){
+            int i = 0;
+            for(i = 0; i < key.Length; i++){
+                if ((object)key[i] == (object)k){
+                    break;
+                }
+            }
+            return dictionary[i];
         }
     }
 }
