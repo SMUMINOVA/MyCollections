@@ -13,6 +13,10 @@ namespace Collection
             n.Add(9);
             foreach(var m in n.GetAll(20))
             System.Console.WriteLine(m);
+            MyDictionary<string, string> city = new MyDictionary<string, string>();
+            city.Add("Spain", "Madrid");
+            city.Add("Kuba", "Gavana");
+            city.Add("Livia", "Tripoli");
         }
     }
 }
